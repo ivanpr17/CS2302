@@ -2,7 +2,7 @@
 #
 # Course: CS2302 (MW - 1:30pm)
 # Author: Ivan Perez
-# Assignment: Lab 7 Graphs
+# Assignment: Lab 5
 # Instructor: Olac Fuentes
 # T.A.: Anindita Nath
 # Last Modified: May 5, 2019
